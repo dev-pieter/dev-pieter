@@ -1,6 +1,6 @@
 # **Pieter Nortje | Software Engineer | ReactJS aficionado**
 
-```
+```js
 (function() {
   if(true){
     console.log("I love code!")
