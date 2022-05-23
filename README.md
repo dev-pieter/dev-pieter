@@ -1,4 +1,4 @@
-# **Pieter Nortje | Software Engineer | ReactJS aficionado**
+# **Pieter Nortje | Software Engineer**
 
 ```js
 (function() {
