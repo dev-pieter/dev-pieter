@@ -10,10 +10,8 @@
 
 ### About me:
 
-- 🚀 I'm an aspiring software engineer always eager to learn
-- 🎓 Proficient in: JavaScript, C++, C#, Python, SQL, Mongo  
-- ☕ I like my Java serverd in a cup, not strongly typed.
-- 🇿🇦 ZA Native
-
+- 🚀 Ever evolving Software Engineer
+- 🎓 Proficient in: TypeScript, Go, C++, C#, Python, SQL
+- 🇿🇦 Cape Town, ZA
 
 
